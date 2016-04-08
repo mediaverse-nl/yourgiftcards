@@ -1,0 +1,1 @@
+<?php \yourgiftcards\LS::logout(); ?>
